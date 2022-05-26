@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolimadev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- <div style="flex-direction: row; justify-content: space-around" ><br>
+ <div style="flex-direction: row; justify-content: space-around; width: 100%"><br>
   <img align="center" alt="China-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="China-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="China-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
