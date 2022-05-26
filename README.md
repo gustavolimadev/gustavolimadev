@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>div {margin-bottom: 50px;}</style>
 <div>
   <div margin-bottom="30">
   <a href="https://github.com/gustavolimadev">
