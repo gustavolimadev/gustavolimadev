@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
      
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=gustavolimadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolimadev&layout=compact&theme=dark&include_all_comits=true&count_private=true"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolimadev&theme=dark&include_all_comits=true&count_private=true"/>
 
   
   </div>
