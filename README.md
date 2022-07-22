@@ -21,25 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <div margin-bottom="30">
-  
-     
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=gustavolimadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolimadev&theme=dark&include_all_comits=true&count_private=true"/>
 
-  
-  </div>
-    <div style="display: none;">
-    <img align="center" alt="China- TML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="China-CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="China-Js"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt"China-Vuejs"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />          
-    <img align="center" alt"China-Flutter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img align="center" alt"China-dart" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img align="center" alt"China-vscode"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
-    </div>
-</div>
   
 
 
