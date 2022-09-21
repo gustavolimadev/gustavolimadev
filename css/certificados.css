@@ -1,0 +1,27 @@
+.habilidades__lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.habilidades__icone {
+    width:5rem;
+    margin:1rem;
+    filter: saturate(0%);
+}
+
+.habilidades__icone:hover {
+    filter: saturate(100%);
+    transition:0.5s;
+}
+
+.certificados__container {
+    height: 75vh;
+}
+
+@media screen and (max-width: 768px) {
+    .habilidades__icone {
+        width: 1rem;
+    }
+}
+

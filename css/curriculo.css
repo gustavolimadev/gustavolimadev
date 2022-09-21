@@ -1,0 +1,58 @@
+.exp {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top:3rem;
+}
+
+.curriculo__titulo {
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 3rem;
+
+}
+
+.exp {
+    border-top: 1px solid black;
+
+}
+
+.curriculo {
+    padding: 3rem;
+}
+
+.curriculo__exp {
+    width: 40%;
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+}
+
+.curriculo__exp--empresa {
+    font-size:1.8rem;
+    font-weight: 500;
+}
+
+.curriculo__exp--periodo {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.curriculo__exp--cargo {
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.curriculo__exp--descricao{
+    font-size: 1rem;
+    margin-top:0.5rem;
+}
+
+@media screen and (max-width:768px) {
+    .curriculo__exp {
+        text-align: center;
+        width: 100%;
+        margin-right: 0;
+        margin-bottom:3rem;
+    }
+}
