@@ -5,8 +5,8 @@ I'm <b>Gustavo</b>, but you can call me <b>China</b>
 
 ⚡ Fun fact: I'm Brazilian and i don't speak English so much, but i'm practicing to improve.
 
-- 🔭 I’m currently working on front-end with Vue.js
-- 🌱 I’m currently learning front-end skills, such as html, css, javascript, React Js, Bootstrap
+- 🔭 I’m currently study python and sql for data analytics and back-end development
+
 <!--
 **gustavolimadev/gustavolimadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
