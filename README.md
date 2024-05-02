@@ -1,6 +1,6 @@
 
 Hey! 🙃
-I'm <b>Gustavo</b>, but you can call me <b>China</b>
+I'm <b>Gustavo</b>, 
 
 
 ⚡ Fun fact: I'm Brazilian and i don't speak English so much, but i'm practicing to improve.
